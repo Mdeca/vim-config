@@ -3,5 +3,5 @@ my vim configuration (lot of python, autocompletition, fuzzy finder, debugger, .
 
 A vim configuration for the modern pythonista (plus some other goodies)
 
-Installation instructions and docs [here.](https://mdeca.github.io/mdeca-vim-config/)
+Installation instructions and docs [here.](https://mdeca.github.io/vim-config/)
 
