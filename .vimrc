@@ -1,5 +1,5 @@
-" Fisa-vim-config
-" http://fisadev.github.io/fisa-vim-config/
+" vim-config
+" http://mdeca.github.io/vim-config/
 " version: 8.3.1
 
 " ============================================================================
