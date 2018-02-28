@@ -1,5 +1,5 @@
 # vim-config
-===============
+
 
 My vim configuration (lot of python, autocompletition, fuzzy finder, debugger, ...)
 
