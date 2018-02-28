@@ -21,10 +21,5 @@ Also, your .vim folder should be empty. If you have one, rename it or move to a 
 **2) Download the .vimrc file and place it in your linux home folder.**
 
 **3) Open vim and it will continue the installation by itself. Wait for it to finish... and done! You now have your new shiny powerful vim :)**
+
 <img src="https://mdeca.github.io/vim-config/docs/vim.gif" alt="hi" class="inline"/>
-
-<img src="http://fisadev.github.io/fisa-vim-config/images/demo.gif" alt="hi" class="inline"/>
-
-https://github.com/Mdeca/vim-config/blob/master/docs/vim.gif?raw=true
-
-
