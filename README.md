@@ -1,4 +1,4 @@
-# vim-config : .vimrc
+# vim-config (.vimrc)
 
 
 My vim configuration (lot of python, autocompletition, fuzzy finder, debugger, ...)
