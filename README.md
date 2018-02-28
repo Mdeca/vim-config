@@ -13,8 +13,9 @@ Installation:
     Also, your .vim folder should be empty. If you have one, rename it or move to a different location (to keep a backup, just      in case you want to go back).
 
 1) Install the required dependencies:
-
+    
     sudo apt-get install curl vim exuberant-ctags git ack-grep
+    
     sudo pip install pep8 flake8 pyflakes isort yapf
 
 2) Download the .vimrc file and place it in your linux home folder.
