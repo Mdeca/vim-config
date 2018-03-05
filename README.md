@@ -1,5 +1,5 @@
 # vim-config (.vimrc)
-You can see the raw **vimrc** [here](https://raw.githubusercontent.com/mdeca/vim-config/master/vimrc).
+You can see the raw **.vimrc** [here](https://raw.githubusercontent.com/mdeca/vim-config/master/vimrc).
 
 My vim configuration (lot of python, autocompletition, fuzzy finder, debugger, ...)
 
